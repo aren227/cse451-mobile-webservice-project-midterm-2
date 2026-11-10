@@ -1,0 +1,8 @@
+[run]
+source = blog
+omit =
+    blog/migrations/*
+
+[html]
+directory = htmlcov
+title = PhotoBlogServer API Test Coverage
